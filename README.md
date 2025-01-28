@@ -1,2 +1,2 @@
-# demoRepo
-nothing just getting easy with github
+# testRepo
+nothing just getting easy with github 
